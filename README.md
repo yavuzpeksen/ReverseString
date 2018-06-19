@@ -1,0 +1,1 @@
+This package uses reverse function in stringutil package. It is a program that has a main function inside.
